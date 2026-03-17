@@ -1,0 +1,8 @@
+﻿.venv/
+pycache/
+*.pyc
+.ipynb_checkpoints/
+api_groq.txt
+streamlit_app/api_groq.txt
+data/flood.csv
+models/
